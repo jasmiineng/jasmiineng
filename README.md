@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! 👋
+
+- 📫 How to reach me: jng81@calpoly.edu
+- 😄 Pronouns: she/her/hers
 
 <!--
 **jasmiineng/jasmiineng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
