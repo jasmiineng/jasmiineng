@@ -1,6 +1,5 @@
 ## Hi there! 👋
 
-- 📫 How to reach me: jng81@calpoly.edu
 - 😄 Pronouns: she/her/hers
 
 <!--
